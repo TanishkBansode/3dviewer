@@ -1,2 +1,2 @@
 # 3dviewer
-To open and view .stl and .glb files
+A lightweight browser-based 3D model viewer using Three.js that lets you upload and explore formats like .stl and .glb.
